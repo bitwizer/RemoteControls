@@ -1,0 +1,28 @@
+{
+  "name": "RemoteControls",
+  "version": "1.0.1",
+  "description": "PhoneGap / Cordova iOS plugin that allows you to use the Remote Controls as well as add metadatas in RemoteControlsInfoCenter",
+  "cordova": {
+    "id": "com.bitwizer.cordova.remote-controls",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitwizer/RemoteControls.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}
